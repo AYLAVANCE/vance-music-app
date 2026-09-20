@@ -155,40 +155,6 @@ Vance Music follows modern Android architectural guidelines (**Clean Architectur
 
 ---
 
-## 🛠️ Building From Source
-
-### Prerequisites
-- **Android Studio**: Ladybug (2024.2.1+) or newer
-- **JDK**: Java Development Kit 17+
-- **Android SDK**: Compile SDK 35, Minimum SDK 26
-- **Gradle**: 8.7+ (Kotlin DSL)
-
-### Compilation Steps
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/vance-music/vance-music.git
-   cd vance-music
-   ```
-
-2. **Configure Environment Secrets**:
-   Copy `.env.example` to `.env` and provide your Google OAuth Web Client ID and backend server configurations:
-   ```bash
-   cp .env.example .env
-   ```
-
-3. **Build the Debug APK**:
-   ```bash
-   ./gradlew assembleDebug
-   ```
-
-4. **Run Unit & Robolectric Tests**:
-   ```bash
-   ./gradlew testDebugUnitTest
-   ```
-
----
-
 ## ❓ Frequently Asked Questions (FAQ)
 
 <details>
@@ -231,20 +197,6 @@ Vance Music features comprehensive language preferences and localized content di
 | **Spanish (Español)** | `es` | ✅ | ✅ |
 | **French (Français)** | `fr` | ✅ | ✅ |
 | **German (Deutsch)** | `de` | ✅ | ✅ |
-
----
-
----
-
-## 👥 Contributors
-
-A big thank you to all contributors who help make Vance Music better every day!
-
-<p align="center">
-  <a href="https://github.com/vance-music/vance-music/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=gokadzev/Musify" alt="Contributors" />
-  </a>
-</p>
 
 ---
 
