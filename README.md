@@ -189,31 +189,6 @@ Vance Music follows modern Android architectural guidelines (**Clean Architectur
 
 ---
 
-## 🌐 Configuration & Backend Integration
-
-### 1. Connecting to Navidrome / Subsonic via Ngrok
-When streaming through an ngrok-tunneled Navidrome instance:
-1. Launch your Subsonic or Navidrome server locally:
-   ```bash
-   navidrome --port 4533
-   ```
-2. Expose the port through ngrok:
-   ```bash
-   ngrok http 4533
-   ```
-3. Enter your generated ngrok URL (e.g. `https://your-domain.ngrok-free.dev`) on the login screen.
-4. The application automatically injects the `ngrok-skip-browser-warning: true` header to bypass browser interstitial landing pages.
-
-### 2. Google OAuth 2.0 Integration
-1. Configure an OAuth 2.0 Web Client ID in the [Google Cloud Console](https://console.cloud.google.com/).
-2. Add your Web Client ID to `.env` or the Secrets panel:
-   ```env
-   GOOGLE_CLIENT_ID=your-client-id.apps.googleusercontent.com
-   ```
-3. Tokens are encrypted immediately upon authentication using hardware-backed AES-256 GCM keys before writing to `DataStore`.
-
----
-
 ## ❓ Frequently Asked Questions (FAQ)
 
 <details>
@@ -258,16 +233,6 @@ Vance Music features comprehensive language preferences and localized content di
 | **German (Deutsch)** | `de` | ✅ | ✅ |
 
 ---
-
-## 🤝 Contributing
-
-Contributions are warmly welcome! Whether you are fixing bugs, improving documentation, adding translations, or proposing new features:
-
-1. **Fork** the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a **Pull Request**.
 
 ---
 
