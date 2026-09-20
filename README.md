@@ -27,7 +27,7 @@
 Get the latest release of Vance Music for Android (Android 8.0+ / API 26+).
 
 <p align="center">
-  <a href="https://github.com/vance-music/vance-music/releases/latest">
+  <a href="https://github.com/AYLAVANCE/vance-music-app/releases">
     <img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png" alt="Download from GitHub" height="60">
   </a>
   &nbsp;&nbsp;
