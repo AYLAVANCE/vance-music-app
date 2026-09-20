@@ -44,7 +44,7 @@ Get the latest release of Vance Music for Android (Android 8.0+ / API 26+).
 
 | Variant | Target Architecture | Minimum Android | Size | Download |
 |:---|:---|:---|:---|:---:|
-| **Universal** | All Devices (`arm64`, `armeabi-v7a`, `x86_64`) | Android 8.0 (API 26) | ~28 MB | [Download APK](https://github.com/vance-music/vance-music/releases/latest) |
+| **Universal** | All Devices (`arm64`, `armeabi-v7a`, `x86_64`) | Android 8.0 (API 26) | ~28 MB | [Download APK](https://vance-music-app.vercel.app/public/VanceMusic.apk) |
 | **ARM64** | Modern Phones & Tablets (`arm64-v8a`) | Android 8.0 (API 26) | ~19 MB | [Download APK](https://github.com/vance-music/vance-music/releases/latest) |
 | **ARMv7** | Older 32-bit Devices (`armeabi-v7a`) | Android 8.0 (API 26) | ~18 MB | [Download APK](https://github.com/vance-music/vance-music/releases/latest) |
 
