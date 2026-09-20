@@ -16,16 +16,6 @@
   <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/UI-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"></a>
 </p>
 
-<p align="center">
-  <a href="#download">Download</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#features">Features</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#building-from-source">Building</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#license">License</a>
-</p>
-
 ---
 
 **Vance Music** is a modern, high-performance, and privacy-first music player and streaming application for Android. Built from the ground up using **Kotlin**, **Jetpack Compose**, and **Material Design 3**, Vance Music delivers an ad-free, fluid music listening experience with native Subsonic / Navidrome server connectivity, offline downloads, real-time synchronized lyrics, audio equalization, and hardware-backed credential encryption.
