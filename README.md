@@ -38,7 +38,7 @@ Get the latest release of Vance Music for Android (Android 8.0+ / API 26+).
 
 <p align="center">
   <a href="https://github.com/vance-music/vance-music/releases/latest">
-    <img src="https://raw.githubusercontent.com/gokadzev/Musify/master/assets/github-badge.png" alt="Download from GitHub" height="60">
+    <img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png" alt="Download from GitHub" height="60">
   </a>
   &nbsp;&nbsp;
   <a href="https://f-droid.org">
