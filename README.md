@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokadzev/Musify/master/assets/logo.png" width="140" height="140" alt="Vance Music Logo">
+  <img src="https://i.postimg.cc/nVSDhhVX/vance-music-logo-1024.png" width="140" height="140" alt="Vance Music Logo">
 </p>
 
 <h1 align="center">Vance Music</h1>
