@@ -72,9 +72,8 @@ Get the latest release of Vance Music for Android (Android 8.0+ / API 26+).
     </tr>
     <tr>
       <td><img src="https://i.postimg.cc/PqbSgwjN/Screenshot-2026-09-20-19-24-55-26-65ac46aaa1e3476a61b1e4c229dcd686.jpg" width="200" alt="Home Feed"/></td>
-      <td><img src="https://raw.githubusercontent.com/gokadzev/Musify/master/assets/screenshots/screenshot_2.png" width="200" alt="Now Playing"/></td>
-      <td><img src="https://raw.githubusercontent.com/gokadzev/Musify/master/assets/screenshots/screenshot_3.png" width="200" alt="Synchronized Lyrics"/></td>
-      <td><img src="https://raw.githubusercontent.com/gokadzev/Musify/master/assets/screenshots/screenshot_4.png" width="200" alt="Search & Explore"/></td>
+      <td><img src="https://i.postimg.cc/s2PTkhrx/Screenshot-2026-09-20-19-25-21-41-65ac46aaa1e3476a61b1e4c229dcd686.jpg" width="200" alt="Now Playing"/></td>
+      <td><img src="https://i.postimg.cc/cJ7FpnSJ/Screenshot-2026-09-20-19-25-47-15-65ac46aaa1e3476a61b1e4c229dcd686.jpg" width="200" alt="Search & Explore"/></td>
     </tr>
     <tr>
       <td align="center"><b>Offline Library</b></td>
