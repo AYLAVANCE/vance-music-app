@@ -67,7 +67,6 @@ Get the latest release of Vance Music for Android (Android 8.0+ / API 26+).
     <tr>
       <td align="center"><b>Home Feed</b></td>
       <td align="center"><b>Now Playing</b></td>
-      <td align="center"><b>Synchronized Lyrics</b></td>
       <td align="center"><b>Search & Explore</b></td>
     </tr>
     <tr>
